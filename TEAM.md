@@ -67,6 +67,7 @@ Belum ada
 - Bayu Aji
 - Ary Aldatama
 - [Vikko Okviandho](https://github.com/belthsazarliem)
+- [Pramasta Ramadha Rahardjo](https://github.com/PramastaRR)
 
 ## Humas
 
